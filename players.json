@@ -100,11 +100,9 @@
     "name": "Matte",
     "avatar_path": "assets/avatars/37c7bed5a34a5aee.jpg",
     "avatar_crop": {
-      "zoom": 0.38,
-      "offset_x": 17,
-      "offset_y": -71,
-      "preview_size": 300,
-      "circle_r": 140
+      "zoom": 1,
+      "x": 0,
+      "y": 2
     }
   },
   {
