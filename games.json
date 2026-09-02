@@ -311,5 +311,38 @@
     ],
     "winning_team": "liberal",
     "winning_condition": "policies_enacted"
+  },
+  {
+    "id": "59071744-0c34-4bb3-a5b6-c3564bb586ba",
+    "date": "2026-09-02T09:42:14.305288+00:00",
+    "players": [
+      {
+        "player_id": "1f707abc-ca8c-459d-829f-a880de632a93",
+        "role": "liberal",
+        "died": false
+      },
+      {
+        "player_id": "b903b1e3-46d7-4ad5-b99d-a7acee3e76f1",
+        "role": "liberal",
+        "died": false
+      },
+      {
+        "player_id": "c098eafa-d2e3-4c70-b5c4-1ea1e5489503",
+        "role": "fascist",
+        "died": false
+      },
+      {
+        "player_id": "030c5e06-0691-430c-b08e-139fd18e97f7",
+        "role": "hitler",
+        "died": false
+      },
+      {
+        "player_id": "c746b849-d340-4f08-a34b-22ad254326f0",
+        "role": "liberal",
+        "died": false
+      }
+    ],
+    "winning_team": "liberal",
+    "winning_condition": "policies_enacted"
   }
 ]
