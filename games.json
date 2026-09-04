@@ -470,5 +470,63 @@
     ],
     "winning_team": "fascist",
     "winning_condition": "hitler_elected"
+  },
+  {
+    "id": "dd87867a-1559-4bd8-b831-eb3f99d9ff9a",
+    "date": "2026-09-04T11:55:22.464717+00:00",
+    "players": [
+      {
+        "player_id": "1f707abc-ca8c-459d-829f-a880de632a93",
+        "role": "hitler",
+        "died": false
+      },
+      {
+        "player_id": "c098eafa-d2e3-4c70-b5c4-1ea1e5489503",
+        "role": "liberal",
+        "died": false
+      },
+      {
+        "player_id": "030c5e06-0691-430c-b08e-139fd18e97f7",
+        "role": "fascist",
+        "died": false
+      },
+      {
+        "player_id": "c746b849-d340-4f08-a34b-22ad254326f0",
+        "role": "fascist",
+        "died": false
+      },
+      {
+        "player_id": "a3406901-d67f-43ca-b49c-2f8af1c9808d",
+        "role": "liberal",
+        "died": false
+      },
+      {
+        "player_id": "08553596-e0d4-4929-8734-72d6602a9a09",
+        "role": "liberal",
+        "died": false
+      },
+      {
+        "player_id": "95416d4a-c34d-4b6f-9530-b1c809de4016",
+        "role": "liberal",
+        "died": false
+      },
+      {
+        "player_id": "93c5af65-627d-4b0e-86a5-f1f4f491b38e",
+        "role": "fascist",
+        "died": false
+      },
+      {
+        "player_id": "b7ebe686-9b80-4dde-acc2-18b4f1ce0cfb",
+        "role": "liberal",
+        "died": false
+      },
+      {
+        "player_id": "713ea199-35c9-4c46-84a8-1000023c3453",
+        "role": "liberal",
+        "died": false
+      }
+    ],
+    "winning_team": "liberal",
+    "winning_condition": "policies_enacted"
   }
 ]
