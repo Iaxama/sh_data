@@ -861,44 +861,6 @@
     "winning_condition": "hitler_elected"
   },
   {
-    "id": "561cbcc7-439e-425a-a623-b3f0d188478c",
-    "date": "2026-09-14T12:13:32.941340+00:00",
-    "players": [
-      {
-        "player_id": "c746b849-d340-4f08-a34b-22ad254326f0",
-        "role": "liberal",
-        "died": false
-      },
-      {
-        "player_id": "08553596-e0d4-4929-8734-72d6602a9a09",
-        "role": "hitler",
-        "died": false
-      },
-      {
-        "player_id": "920768c0-90b0-4651-955e-80158a755493",
-        "role": "fascist",
-        "died": true
-      },
-      {
-        "player_id": "b7ebe686-9b80-4dde-acc2-18b4f1ce0cfb",
-        "role": "liberal",
-        "died": false
-      },
-      {
-        "player_id": "713ea199-35c9-4c46-84a8-1000023c3453",
-        "role": "liberal",
-        "died": true
-      },
-      {
-        "player_id": "5b1f0769-878d-476f-8603-7781f30dc448",
-        "role": "liberal",
-        "died": false
-      }
-    ],
-    "winning_team": "fascist",
-    "winning_condition": "policies_enacted"
-  },
-  {
     "id": "d0543195-9c3a-4a07-8d83-7769242a28e5",
     "date": "2026-09-14T12:15:34.541653+00:00",
     "players": [
