@@ -50,7 +50,8 @@
       }
     ],
     "winning_team": "fascist",
-    "winning_condition": "hitler_elected"
+    "winning_condition": "hitler_elected",
+    "sniper_id": null
   },
   {
     "id": "8736aef9-76a6-4dd2-b1c3-d5a39abaa34b",
@@ -108,7 +109,8 @@
       }
     ],
     "winning_team": "fascist",
-    "winning_condition": "policies_enacted"
+    "winning_condition": "policies_enacted",
+    "sniper_id": null
   },
   {
     "id": "b13ac016-92f6-46cd-85bd-a3867a1bc3fa",
@@ -156,7 +158,8 @@
       }
     ],
     "winning_team": "fascist",
-    "winning_condition": "policies_enacted"
+    "winning_condition": "policies_enacted",
+    "sniper_id": null
   },
   {
     "id": "5b2cdab6-ab6a-4f88-afbc-380f710ffae3",
@@ -204,7 +207,8 @@
       }
     ],
     "winning_team": "fascist",
-    "winning_condition": "hitler_elected"
+    "winning_condition": "hitler_elected",
+    "sniper_id": null
   },
   {
     "id": "88f9fadc-3e8a-4724-bef9-a06feb9d495d",
@@ -257,7 +261,8 @@
       }
     ],
     "winning_team": "fascist",
-    "winning_condition": "hitler_elected"
+    "winning_condition": "hitler_elected",
+    "sniper_id": null
   },
   {
     "id": "e6327bc0-dfae-412c-8272-a7bddbdbbc6a",
@@ -310,7 +315,8 @@
       }
     ],
     "winning_team": "liberal",
-    "winning_condition": "policies_enacted"
+    "winning_condition": "policies_enacted",
+    "sniper_id": null
   },
   {
     "id": "292db330-999f-4567-8ccc-3560a0fbf273",
@@ -363,7 +369,8 @@
       }
     ],
     "winning_team": "fascist",
-    "winning_condition": "policies_enacted"
+    "winning_condition": "policies_enacted",
+    "sniper_id": null
   },
   {
     "id": "b6bc65ac-0812-4b17-8950-1a7dffb724e1",
@@ -416,7 +423,8 @@
       }
     ],
     "winning_team": "liberal",
-    "winning_condition": "policies_enacted"
+    "winning_condition": "policies_enacted",
+    "sniper_id": null
   },
   {
     "id": "be212a17-8145-461c-adfd-adea692c2ff7",
@@ -469,7 +477,8 @@
       }
     ],
     "winning_team": "fascist",
-    "winning_condition": "hitler_elected"
+    "winning_condition": "hitler_elected",
+    "sniper_id": null
   },
   {
     "id": "dd87867a-1559-4bd8-b831-eb3f99d9ff9a",
@@ -527,7 +536,8 @@
       }
     ],
     "winning_team": "liberal",
-    "winning_condition": "policies_enacted"
+    "winning_condition": "policies_enacted",
+    "sniper_id": null
   },
   {
     "id": "20b77497-08cd-4d04-a86a-23ed3235fa52",
@@ -585,7 +595,8 @@
       }
     ],
     "winning_team": "fascist",
-    "winning_condition": "policies_enacted"
+    "winning_condition": "policies_enacted",
+    "sniper_id": null
   },
   {
     "id": "a88b264b-f8f5-46ae-987e-22a353080f87",
@@ -638,7 +649,8 @@
       }
     ],
     "winning_team": "fascist",
-    "winning_condition": "policies_enacted"
+    "winning_condition": "policies_enacted",
+    "sniper_id": null
   },
   {
     "id": "649431bc-4113-46a3-aac2-db73e7f3d88d",
@@ -686,7 +698,8 @@
       }
     ],
     "winning_team": "fascist",
-    "winning_condition": "hitler_elected"
+    "winning_condition": "hitler_elected",
+    "sniper_id": null
   },
   {
     "id": "0a6a9f46-68a8-42ae-a563-6c808f44b3cc",
@@ -734,7 +747,8 @@
       }
     ],
     "winning_team": "liberal",
-    "winning_condition": "policies_enacted"
+    "winning_condition": "policies_enacted",
+    "sniper_id": null
   },
   {
     "id": "1b2e2abe-20a7-46aa-b499-9a54b7595020",
@@ -772,7 +786,8 @@
       }
     ],
     "winning_team": "fascist",
-    "winning_condition": "hitler_elected"
+    "winning_condition": "hitler_elected",
+    "sniper_id": null
   },
   {
     "id": "bfb215cd-91b1-4fb2-83e5-0180ffc1e222",
@@ -815,7 +830,8 @@
       }
     ],
     "winning_team": "fascist",
-    "winning_condition": "hitler_elected"
+    "winning_condition": "hitler_elected",
+    "sniper_id": null
   },
   {
     "id": "4810dd29-a61c-4cb3-a022-309466d0f47a",
@@ -858,7 +874,8 @@
       }
     ],
     "winning_team": "fascist",
-    "winning_condition": "hitler_elected"
+    "winning_condition": "hitler_elected",
+    "sniper_id": null
   },
   {
     "id": "d0543195-9c3a-4a07-8d83-7769242a28e5",
@@ -906,7 +923,8 @@
       }
     ],
     "winning_team": "fascist",
-    "winning_condition": "hitler_elected"
+    "winning_condition": "hitler_elected",
+    "sniper_id": null
   },
   {
     "id": "629fc048-0918-465b-9a7a-1030c3393fc7",
@@ -949,7 +967,8 @@
       }
     ],
     "winning_team": "fascist",
-    "winning_condition": "policies_enacted"
+    "winning_condition": "policies_enacted",
+    "sniper_id": null
   },
   {
     "id": "a84dfafd-9e2f-46d4-a757-362e5c4a0a55",
@@ -992,7 +1011,8 @@
       }
     ],
     "winning_team": "liberal",
-    "winning_condition": "policies_enacted"
+    "winning_condition": "policies_enacted",
+    "sniper_id": null
   },
   {
     "id": "de262c82-c38b-4a17-898b-e0d99e7334b9",
@@ -1040,7 +1060,8 @@
       }
     ],
     "winning_team": "fascist",
-    "winning_condition": "policies_enacted"
+    "winning_condition": "policies_enacted",
+    "sniper_id": null
   },
   {
     "id": "549a9f60-8a6f-4ca4-a528-5bf8357472a2",
@@ -1093,7 +1114,8 @@
       }
     ],
     "winning_team": "liberal",
-    "winning_condition": "policies_enacted"
+    "winning_condition": "policies_enacted",
+    "sniper_id": null
   },
   {
     "id": "2ff02160-e437-4c11-b07e-fb52b7809b4d",
@@ -1136,7 +1158,8 @@
       }
     ],
     "winning_team": "fascist",
-    "winning_condition": "hitler_elected"
+    "winning_condition": "hitler_elected",
+    "sniper_id": null
   },
   {
     "id": "20661937-6fc7-4c1c-b329-1cf262018a80",
@@ -1179,7 +1202,8 @@
       }
     ],
     "winning_team": "fascist",
-    "winning_condition": "policies_enacted"
+    "winning_condition": "policies_enacted",
+    "sniper_id": null
   },
   {
     "id": "4ecef076-9b88-4ee4-9f63-3de25e5ca7b3",
@@ -1232,7 +1256,8 @@
       }
     ],
     "winning_team": "liberal",
-    "winning_condition": "policies_enacted"
+    "winning_condition": "policies_enacted",
+    "sniper_id": null
   },
   {
     "id": "abda8312-a040-4ff6-be6c-0876674b057e",
@@ -1285,6 +1310,61 @@
       }
     ],
     "winning_team": "liberal",
-    "winning_condition": "hitler_executed"
+    "winning_condition": "hitler_executed",
+    "sniper_id": null
+  },
+  {
+    "id": "fa8a868a-f1da-49b2-8380-8f68195dfe9b",
+    "date": "2026-09-22T08:11:51.095693+00:00",
+    "players": [
+      {
+        "player_id": "1f707abc-ca8c-459d-829f-a880de632a93",
+        "role": "hitler",
+        "died": true
+      },
+      {
+        "player_id": "c746b849-d340-4f08-a34b-22ad254326f0",
+        "role": "liberal",
+        "died": false
+      },
+      {
+        "player_id": "b7ebe686-9b80-4dde-acc2-18b4f1ce0cfb",
+        "role": "fascist",
+        "died": false
+      },
+      {
+        "player_id": "93c5af65-627d-4b0e-86a5-f1f4f491b38e",
+        "role": "fascist",
+        "died": false
+      },
+      {
+        "player_id": "a3406901-d67f-43ca-b49c-2f8af1c9808d",
+        "role": "liberal",
+        "died": false
+      },
+      {
+        "player_id": "5b1f0769-878d-476f-8603-7781f30dc448",
+        "role": "fascist",
+        "died": false
+      },
+      {
+        "player_id": "920768c0-90b0-4651-955e-80158a755493",
+        "role": "liberal",
+        "died": false
+      },
+      {
+        "player_id": "804e1117-7a03-4a01-98ef-0d9c66df9e85",
+        "role": "liberal",
+        "died": false
+      },
+      {
+        "player_id": "13371329-3621-480a-bb83-4ccedfbfcf29",
+        "role": "liberal",
+        "died": false
+      }
+    ],
+    "winning_team": "liberal",
+    "winning_condition": "hitler_executed",
+    "sniper_id": "a3406901-d67f-43ca-b49c-2f8af1c9808d"
   }
 ]
