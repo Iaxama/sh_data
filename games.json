@@ -1410,5 +1410,49 @@
     "winning_team": "liberal",
     "winning_condition": "hitler_executed",
     "sniper_id": "5b1f0769-878d-476f-8603-7781f30dc448"
+  },
+  {
+    "id": "8262e685-c7dc-4082-b8da-d0de33b4504d",
+    "date": "2026-09-24T13:07:24.954980+00:00",
+    "players": [
+      {
+        "player_id": "c746b849-d340-4f08-a34b-22ad254326f0",
+        "role": "fascist",
+        "died": false
+      },
+      {
+        "player_id": "1f707abc-ca8c-459d-829f-a880de632a93",
+        "role": "liberal",
+        "died": false
+      },
+      {
+        "player_id": "b7ebe686-9b80-4dde-acc2-18b4f1ce0cfb",
+        "role": "hitler",
+        "died": false
+      },
+      {
+        "player_id": "93c5af65-627d-4b0e-86a5-f1f4f491b38e",
+        "role": "liberal",
+        "died": true
+      },
+      {
+        "player_id": "5b1f0769-878d-476f-8603-7781f30dc448",
+        "role": "liberal",
+        "died": false
+      },
+      {
+        "player_id": "920768c0-90b0-4651-955e-80158a755493",
+        "role": "fascist",
+        "died": true
+      },
+      {
+        "player_id": "c4202d51-418c-4efe-bfa8-be73b33ba8c7",
+        "role": "liberal",
+        "died": false
+      }
+    ],
+    "winning_team": "fascist",
+    "winning_condition": "policies_enacted",
+    "sniper_id": null
   }
 ]
