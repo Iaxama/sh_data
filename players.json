@@ -127,7 +127,11 @@
     "id": "c4202d51-418c-4efe-bfa8-be73b33ba8c7",
     "name": "Ivan",
     "avatar_path": "assets/avatars/d3c8d713da952057.jpg",
-    "avatar_crop": null
+    "avatar_crop": {
+      "zoom": 1,
+      "x": 0,
+      "y": 0
+    }
   },
   {
     "id": "13371329-3621-480a-bb83-4ccedfbfcf29",
