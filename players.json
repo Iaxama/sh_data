@@ -81,7 +81,11 @@
     "id": "920768c0-90b0-4651-955e-80158a755493",
     "name": "Ali",
     "avatar_path": "assets/avatars/a30dfad35a4ab5bf.jpg",
-    "avatar_crop": null
+    "avatar_crop": {
+      "zoom": 1,
+      "x": 0,
+      "y": 0
+    }
   },
   {
     "id": "95416d4a-c34d-4b6f-9530-b1c809de4016",
