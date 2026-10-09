@@ -27,7 +27,11 @@
     "id": "c098eafa-d2e3-4c70-b5c4-1ea1e5489503",
     "name": "Miki",
     "avatar_path": "assets/avatars/baadc5f93153a6df.jpg",
-    "avatar_crop": null
+    "avatar_crop": {
+      "zoom": 1,
+      "x": 0,
+      "y": 6.772237196765502
+    }
   },
   {
     "id": "030c5e06-0691-430c-b08e-139fd18e97f7",
