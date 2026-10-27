@@ -2684,5 +2684,71 @@
     "sniper_id": null,
     "hitler_chooser_id": null,
     "season_id": "48d03534-71c6-4c11-ad88-bee4b67f6a7a"
+  },
+  {
+    "id": "e064a0c7-6e58-4b42-96af-f8b0ddbc6b9b",
+    "date": "2026-10-27T13:04:58.617443+00:00",
+    "players": [
+      {
+        "player_id": "c746b849-d340-4f08-a34b-22ad254326f0",
+        "role": "fascist",
+        "died": false
+      },
+      {
+        "player_id": "08553596-e0d4-4929-8734-72d6602a9a09",
+        "role": "fascist",
+        "died": false
+      },
+      {
+        "player_id": "93c5af65-627d-4b0e-86a5-f1f4f491b38e",
+        "role": "fascist",
+        "died": false
+      },
+      {
+        "player_id": "a3406901-d67f-43ca-b49c-2f8af1c9808d",
+        "role": "liberal",
+        "died": true
+      },
+      {
+        "player_id": "5b1f0769-878d-476f-8603-7781f30dc448",
+        "role": "liberal",
+        "died": false
+      },
+      {
+        "player_id": "030c5e06-0691-430c-b08e-139fd18e97f7",
+        "role": "liberal",
+        "died": false
+      },
+      {
+        "player_id": "c098eafa-d2e3-4c70-b5c4-1ea1e5489503",
+        "role": "hitler",
+        "died": false
+      },
+      {
+        "player_id": "920768c0-90b0-4651-955e-80158a755493",
+        "role": "fascist",
+        "died": false
+      },
+      {
+        "player_id": "b903b1e3-46d7-4ad5-b99d-a7acee3e76f1",
+        "role": "liberal",
+        "died": false
+      },
+      {
+        "player_id": "c4202d51-418c-4efe-bfa8-be73b33ba8c7",
+        "role": "liberal",
+        "died": true
+      },
+      {
+        "player_id": "95416d4a-c34d-4b6f-9530-b1c809de4016",
+        "role": "liberal",
+        "died": false
+      }
+    ],
+    "winning_team": "fascist",
+    "winning_condition": "policies_enacted",
+    "sniper_id": null,
+    "hitler_chooser_id": null,
+    "season_id": "48d03534-71c6-4c11-ad88-bee4b67f6a7a"
   }
 ]
