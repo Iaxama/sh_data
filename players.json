@@ -30,13 +30,13 @@
   {
     "id": "c098eafa-d2e3-4c70-b5c4-1ea1e5489503",
     "name": "Miki",
-    "avatar_path": "assets/avatars/382d5d66d0e71c65.jpg",
+    "avatar_path": "assets/avatars/eecf3dd37db84d2a.jpg",
     "avatar_crop": {
       "zoom": 1,
       "x": 0,
       "y": 50
     },
-    "avatar_full_path": null,
+    "avatar_full_path": "assets/avatars/6214b6afbd7e64a4.jpg",
     "retired": false
   },
   {
