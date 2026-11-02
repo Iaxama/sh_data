@@ -32,9 +32,9 @@
     "name": "Miki",
     "avatar_path": "assets/avatars/ff9191cf97c8dbfd.jpg",
     "avatar_crop": {
-      "zoom": 1,
-      "x": 0,
-      "y": 24
+      "zoom": 1.15,
+      "x": -1,
+      "y": -7
     },
     "avatar_full_path": "assets/avatars/22b29b7a94f1d376.png",
     "retired": false
