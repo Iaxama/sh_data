@@ -5,6 +5,139 @@
     "name": "Season 1",
     "start_date": "2026-08-27T16:13:03.568006+00:00",
     "scheduled_end": "2026-10-31T23:59:59+00:00",
+    "end_date": "2026-11-02T10:03:50.268557+00:00",
+    "awards": [
+      {
+        "key": "most_games",
+        "value": 53,
+        "winners": [
+          "c746b849-d340-4f08-a34b-22ad254326f0"
+        ]
+      },
+      {
+        "key": "least_games",
+        "value": 1,
+        "winners": [
+          "13371329-3621-480a-bb83-4ccedfbfcf29",
+          "804e1117-7a03-4a01-98ef-0d9c66df9e85"
+        ]
+      },
+      {
+        "key": "most_wins",
+        "value": 30,
+        "winners": [
+          "c746b849-d340-4f08-a34b-22ad254326f0"
+        ]
+      },
+      {
+        "key": "highest_win_pct",
+        "value": 67.86,
+        "winners": [
+          "920768c0-90b0-4651-955e-80158a755493"
+        ]
+      },
+      {
+        "key": "lowest_win_pct",
+        "value": 36.0,
+        "winners": [
+          "c4202d51-418c-4efe-bfa8-be73b33ba8c7"
+        ]
+      },
+      {
+        "key": "highest_elo",
+        "value": 1626.64,
+        "winners": [
+          "920768c0-90b0-4651-955e-80158a755493"
+        ]
+      },
+      {
+        "key": "lowest_elo",
+        "value": 1378.7,
+        "winners": [
+          "c4202d51-418c-4efe-bfa8-be73b33ba8c7"
+        ]
+      },
+      {
+        "key": "most_deaths",
+        "value": 8,
+        "winners": [
+          "5b1f0769-878d-476f-8603-7781f30dc448"
+        ]
+      },
+      {
+        "key": "most_snipes",
+        "value": 1,
+        "winners": [
+          "5b1f0769-878d-476f-8603-7781f30dc448",
+          "a3406901-d67f-43ca-b49c-2f8af1c9808d"
+        ]
+      },
+      {
+        "key": "most_liberal_games",
+        "value": 30,
+        "winners": [
+          "1f707abc-ca8c-459d-829f-a880de632a93"
+        ]
+      },
+      {
+        "key": "most_liberal_wins",
+        "value": 14,
+        "winners": [
+          "1f707abc-ca8c-459d-829f-a880de632a93"
+        ]
+      },
+      {
+        "key": "most_fascist_games",
+        "value": 25,
+        "winners": [
+          "c746b849-d340-4f08-a34b-22ad254326f0"
+        ]
+      },
+      {
+        "key": "most_fascist_wins",
+        "value": 16,
+        "winners": [
+          "c746b849-d340-4f08-a34b-22ad254326f0"
+        ]
+      },
+      {
+        "key": "most_hitler_games",
+        "value": 8,
+        "winners": [
+          "030c5e06-0691-430c-b08e-139fd18e97f7",
+          "a3406901-d67f-43ca-b49c-2f8af1c9808d"
+        ]
+      },
+      {
+        "key": "most_hitler_wins",
+        "value": 5,
+        "winners": [
+          "030c5e06-0691-430c-b08e-139fd18e97f7",
+          "93c5af65-627d-4b0e-86a5-f1f4f491b38e"
+        ]
+      },
+      {
+        "key": "most_dumbo",
+        "value": 1,
+        "winners": [
+          "1f707abc-ca8c-459d-829f-a880de632a93"
+        ]
+      },
+      {
+        "key": "most_dictator",
+        "value": 1,
+        "winners": [
+          "93c5af65-627d-4b0e-86a5-f1f4f491b38e"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6cb5babb-1cf6-48e5-8e80-14355a33bac2",
+    "number": 2,
+    "name": "Season 2",
+    "start_date": "2026-11-02T10:03:50.268557+00:00",
+    "scheduled_end": "2027-01-31T23:59:59+00:00",
     "end_date": null,
     "awards": null
   }

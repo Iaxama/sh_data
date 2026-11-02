@@ -51,7 +51,7 @@
       "circle_r": 140
     },
     "avatar_full_path": null,
-    "retired": false
+    "retired": true
   },
   {
     "id": "c746b849-d340-4f08-a34b-22ad254326f0",
@@ -95,7 +95,7 @@
     "avatar_path": null,
     "avatar_crop": null,
     "avatar_full_path": null,
-    "retired": false
+    "retired": true
   },
   {
     "id": "920768c0-90b0-4651-955e-80158a755493",
@@ -143,7 +143,7 @@
     "avatar_path": null,
     "avatar_crop": null,
     "avatar_full_path": null,
-    "retired": false
+    "retired": true
   },
   {
     "id": "5b1f0769-878d-476f-8603-7781f30dc448",
@@ -183,7 +183,7 @@
     "avatar_path": null,
     "avatar_crop": null,
     "avatar_full_path": null,
-    "retired": false
+    "retired": true
   },
   {
     "id": "804e1117-7a03-4a01-98ef-0d9c66df9e85",
@@ -191,7 +191,7 @@
     "avatar_path": null,
     "avatar_crop": null,
     "avatar_full_path": null,
-    "retired": false
+    "retired": true
   },
   {
     "id": "11243251-44e4-4eba-be25-3070a81f9966",
@@ -199,6 +199,6 @@
     "avatar_path": null,
     "avatar_crop": null,
     "avatar_full_path": null,
-    "retired": false
+    "retired": true
   }
 ]
